@@ -1,50 +1,86 @@
 [
     {
         "id": "01",
-        "name": "HTML"
+        "name": "HTML",
+        "image_url": "https://nsdarabia.com/customers_demos/new_Nouveltech/images/html.jpg",
+        "title": "HTML: HyperText Markup Language",
+        "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.HTML uses markup to annotate text, images, and other content for display in a Web browser. HTML markup includes special elements such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.An HTML element is set off from other text in a document by tags, which consist of the element name surrounded by < and >. The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way. However, the convention and recommended practice is to write tags in lowercase."
     },
     {
         "id": "02",
-        "name": "CSS"
+        "name": "CSS",
+        "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+        "title": "CSS: Cascading Style Sheets",
+        "details": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.CSS is among the core languages of the open web and is standardized across Web browsers according to W3C specifications. Previously, the development of various parts of CSS specification was done synchronously, which allowed the versioning of the latest recommendations. You might have heard about CSS1, CSS2.1, or even CSS3. There will never be a CSS3 or a CSS4; rather, everything is now CSS without a version number.After CSS 2.1, the scope of the specification increased significantly and the progress on different CSS modules started to differ so much, that it became more effective to develop and release recommendations separately per module. Instead of versioning the CSS specification, W3C now periodically takes a snapshot of the latest stable state of the CSS specification and individual modules progress. CSS modules now have version numbers, or levels, such as CSS Color Module Level 5."
     },
     {
         "id": "03",
-        "name": "JAVASCRIPT"
+        "name": "JAVASCRIPT",
+        "image_url": "https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png",
+        "title": "Javascript",
+        "details": "JavaScript is a dynamic programming language that's used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS.Many browsers use JavaScript as a scripting language for doing dynamic things on the web. Any time you see a click-to-show dropdown menu, extra content added to a page, and dynamically changing element colors on a page, to name a few features, you're seeing the effects of JavaScript."
     },
     {
         "id": "04",
-        "name": "REACJS"
+        "name": "REACJS",
+        "image_url": "https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png",
+        "title": "React js",
+        "details": "React.js, more commonly known as React, is a free, open-source JavaScript library. It works best to build user interfaces by combining sections of code (components) into full websites. Originally built by Facebook, Meta and the open-source community now maintain it. One of the good things about React is that you can use it as much or as little as you want! For example, you can build your entire site in React or just use one single React component on one page.React.js is built using JSX – A combination of JavaScript and XML. Elements are created using JSX, then use JavaScript to render them on your site. While React has a steep learning curve for a junior developer, it’s quickly shaping into one of the most popular and in-demand JavaScript libraries.React is considered a JavaScript library rather than a framework, whereas the other options we’ll consider today are considered frameworks. It helps to think of a library as a tool that developers could use in any project and a framework as a whole design.There has been a massive rise in the popularity of React.js, as found in the studies by State Of JS. This is partially due to its flexibility and speed of development but also helped by the fact that it is supported by Meta, making developers and companies feel safe in their decision to use React. Therefore, the demand for React developers is very high. As a result, there is a wide range of jobs for developers who know how to use React."
     },
     {
         "id": "05",
-        "name": "VUEJS"
+        "name": "VUEJS",
+        "image_url": "https://i.ytimg.com/vi/DsuTwV0jwaY/maxresdefault.jpg",
+        "title": "Vue js",
+        "details": "VueJS is an open source progressive JavaScript framework used to develop interactive web interfaces. It is one of the famous frameworks used to simplify web development. VueJS focusses on the view layer. It can be easily integrated into big projects for front-end development without any issues.The installation for VueJS is very easy to start with. Any developer can easily understand and build interactive web interfaces in a matter of time. VueJS is created by Evan You, an ex-employee from Google. The first version of VueJS was released in Feb 2014. It recently has clocked to 64,828 stars on GitHub, making it very popular."
     },
     {
         "id": "06",
-        "name": "ANGULARJS"
+        "name": "ANGULARJS",
+        "image_url": "https://miro.medium.com/max/760/1*IpJblEKT0Rbrg61W_LM0-A.png",
+        "title": "Angular js",
+        "details": "ngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.AngularJS is what HTML would have been, had it been designed for applications. HTML is a great declarative language for static documents. It does not contain much in the way of creating applications, and as a result building web applications is an exercise in what do I have to do to trick the browser into doing what I want?AngularJS takes another approach. It attempts to minimize the impedance mismatch between document centric HTML and what an application needs by creating new HTML constructs. AngularJS teaches the browser new syntax through a construct we call directives."
     },
     {
         "id": "07",
-        "name": "PHP"
+        "name": "PHP",
+        "image_url": "https://metamug.com/article/images/api-integration/create-rest-api-in-php.jpg",
+        "title": "Php",
+        "details": "PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages.PHP scripts can only be interpreted on a server that has PHP installed.The client computers accessing the PHP scripts require a web browser only.A script is a set of programming instructions that is interpreted at runtime.A scripting language is a language that interprets scripts at runtime. Scripts are usually embedded into other software environments.The purpose of the scripts is usually to enhance the performance or perform routine tasks for an application.Server side scripts are interpreted on the server while client side scripts are interpreted by the client application.PHP is a server side script that is interpreted on the server while JavaScript is an example of a client side script that is interpreted by the client browser. Both PHP and JavaScript can be embedded into HTML pages."
     },
     {
         "id": "08",
-        "name": "PYTHON"
+        "name": "PYTHON",
+        "image_url": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png",
+        "title": "Python",
+        "details": "Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.Python was developed by Guido van Rossum in the late eighties and early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.Python is derived from many other languages, including ABC, Modula-3, C, C++, Algol-68, SmallTalk, and Unix shell and other scripting languages.Python is copyrighted. Like Perl, Python source code is now available under the GNU General Public License (GPL).Python is now maintained by a core development team at the institute, although Guido van Rossum still holds a vital role in directing its progress."
     },
     {
         "id": "09",
-        "name": "NODEJS"
+        "name": "NODEJS",
+        "image_url": "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png?w=700&fm=webp",
+        "title": "Node js",
+        "details": "Node.js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.Node.js is intended to run on a dedicated HTTP server and to employ a single thread with one process at a time. Node.js applications are event-based and run asynchronously. Code built on the Node platform does not follow the traditional model of receive, process, send, wait, receive. Instead, Node processes incoming requests in a constant event stack and sends small requests one after the other without waiting for responses.This is a shift away from mainstream models that run larger, more complex processes and run several threads concurrently, with each thread waiting for its appropriate response before moving on.One of the major advantages of Node.js, according to its creator Ryan Dahl, is that it does not block input/output (I/O). Some developers are highly critical of Node.js and point out that if a single process requires a significant number of CPU cycles, the application will block and that the blocking can crash the application. Proponents of the Node.js model claim that CPU processing time is less of a concern because of the high number of small processes that Node code is based on."
     },
     {
         "id": "10",
-        "name": "LARAVEL"
+        "name": "LARAVEL",
+        "image_url": "https://laravelnews.s3.amazonaws.com/images/laravel9.png",
+        "title": "Laravel",
+        "details": "Laravel's localization features provide a convenient way to retrieve strings in various languages, allowing you to easily support multiple languages within your application.Laravel provides two ways to manage translation strings. First, language strings may be stored in files within the lang directory. Within this directory, there may be subdirectories for each language supported by the application. This is the approach Laravel uses to manage translation strings for built-in Laravel features such as validation error messages:Or, translation strings may be defined within JSON files that are placed within the lang directory. When taking this approach, each language supported by your application would have a corresponding JSON file within this directory. This approach is recommended for applications that have a large number of translatable strings:"
     },
     {
         "id": "11",
-        "name": "GO"
+        "name": "GO",
+        "image_url": "https://miro.medium.com/max/1400/1*Ifpd_HtDiK9u6h68SZgNuA.png",
+        "title": "Go Language",
+        "details": "The Go programming language is an open source project to make programmers more productive.Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It's a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language."
     },
     {
-        "id": "07",
-        "name": "C++"
+        "id": "12",
+        "name": "C++",
+        "image_url": "https://www.simplilearn.com/ice9/webinar_thum_image/CPP_Tutorial.jpg",
+        "title": "C++",
+        "details": "C++ is a statically typed, compiled, general-purpose, case-sensitive, free-form programming language that supports procedural, object-oriented, and generic programming.C++ is regarded as a middle-level language, as it comprises a combination of both high-level and low-level language features.C++ was developed by Bjarne Stroustrup starting in 1979 at Bell Labs in Murray Hill, New Jersey, as an enhancement to the C language and originally named C with Classes but later it was renamed C++ in 1983.C++ is a superset of C, and that virtually any legal C program is a legal C++ program.The purpose of learning a programming language is to become a better programmer; that is, to become more effective at designing and implementing new systems and at maintaining old ones.C++ supports a variety of programming styles. You can write in the style of Fortran, C, Smalltalk, etc., in any language. Each style can achieve its aims effectively while maintaining runtime and space efficiency."
     }
 ]
