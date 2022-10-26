@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "name": "HTML"
+    },
+    {
+        "id": "02",
+        "name": "CSS"
+    },
+    {
+        "id": "03",
+        "name": "JAVASCRIPT"
+    },
+    {
+        "id": "04",
+        "name": "REACJS"
+    },
+    {
+        "id": "05",
+        "name": "VUEJS"
+    },
+    {
+        "id": "06",
+        "name": "ANGULARJS"
+    },
+    {
+        "id": "07",
+        "name": "PHP"
+    },
+    {
+        "id": "08",
+        "name": "PYTHON"
+    },
+    {
+        "id": "09",
+        "name": "NODEJS"
+    },
+    {
+        "id": "10",
+        "name": "LARAVEL"
+    },
+    {
+        "id": "11",
+        "name": "GO"
+    },
+    {
+        "id": "07",
+        "name": "C++"
+    }
+]
