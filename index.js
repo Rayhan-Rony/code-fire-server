@@ -13,6 +13,11 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const checkoutInfo = courses.find(checkoutCourse => checkoutCourse.id == id)
+    res.send(checkoutInfo)
+})
 app.get('/coursedetails/:id', (req, res) => {
     const id = req.params.id
     const coursedetailsdata = courses.find(course => course.id == id)
