@@ -13,4 +13,9 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
+app.get('/coursedetails/:id', (req, res) => {
+    const id = req.params.id
+    const coursedetailsdata = courses.find(course => course.id == id)
+    res.send(coursedetailsdata)
+})
 app.listen(port, () => { console.log('server is running', port) })
